@@ -1,7 +1,7 @@
 {
     "name": "FastiFirstExtension",
     "version": "0.0.0",
-    "description": "This is my first makecode extension and will be uselesse. Just for test purposes.",
+    "description": "This is my first makecode extension and will be useless. Just for test purposes.",
     "dependencies": {
         "core": "*",
         "radio": "*",
