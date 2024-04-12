@@ -1,0 +1,24 @@
+{
+    "name": "FastiFirstExtension",
+    "version": "0.0.0",
+    "description": "This is my first makecode extension and will be uselesse. Just for test purposes.",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "license": "MIT"
+}
