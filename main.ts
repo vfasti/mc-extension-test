@@ -1,5 +1,5 @@
 /**
- * M Extension for micro:bit
+ * My Extensions for micro:bit
  */
 
 //% color="#0fbc11" icon="\uf185"
